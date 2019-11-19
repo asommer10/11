@@ -8,7 +8,7 @@ a {
 	text-decoration: none;
 }
 Body{
-	background-image: url("Background ARS final.png");
+	background-image: url("Moutain-Laurel-030416.jpg");
 	font-foamily: "Comic Sans MS", Helvetica, sans-serif;
 	font-size: 16px;
 	color: #344444;
