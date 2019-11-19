@@ -9,10 +9,10 @@ a {
 }
 body{
 	background-color: white;
-	background-image: url("Mountain-Laurel-030416.jpg");
+	background-image: url("Background ARS final.png");
 	font-foamily: "Comic Sans MS", Helvetica, sans-serif;
 	font-size: 16px;
-	color: #334444;
+	color: #344444;
 }
 h1 {
 	color: gray;
